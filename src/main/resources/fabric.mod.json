@@ -2,15 +2,17 @@
   "schemaVersion": 1,
   "id": "cookingextension",
   "version": "${version}",
-
+  "publisher": "Deyan Nikolov",
   "name": "Cooking Extension",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "displayName": "Cooking Extension",
+  "description": "Extend your Vanilla Minecraft culinary skills with new recipes, ingredients and dishes.",
   "authors": [
     "DidakaMaybe"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/DeyanVNikolov/CookingExtension-1.19",
+    "sources": "https://github.com/DeyanVNikolov/CookingExtension-1.19",
+    "issues": "https://github.com/DeyanVNikolov/CookingExtension-1.19/issues"
   },
 
   "license": "MIT License",
